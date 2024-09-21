@@ -23,4 +23,8 @@ function PokemonList() {
   );
 }
 
+//komen
+
+
+
 export default PokemonList;
