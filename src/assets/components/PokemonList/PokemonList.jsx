@@ -4,6 +4,7 @@ import { useState, useEffect } from 'react';
 function PokemonList() {
   const [pokemons, setPokemons] = useState([]);
 
+  //test
   useEffect(() => {
     setPokemons(pokemonJSON);
   }, []);
